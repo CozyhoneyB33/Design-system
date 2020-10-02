@@ -125,8 +125,8 @@ nav .topnav li.mobile {
         vertical-align: top;
         margin-left: 3%;
     }
-    .columns: first-child
-    .columns: first-child {
+    .column:first-child,
+    .columns:first-child {
         margin-left: 0;
     } 
     .one.column {
@@ -206,5 +206,5 @@ nav .topnav li.mobile {
     footer {
         border-top: 1px solid #E1E1E1;
         margin-top: 48px;
-        padding: 24% 0 0;
+        padding: 24px 0 0;
     }
